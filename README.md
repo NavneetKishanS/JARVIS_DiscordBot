@@ -26,7 +26,7 @@ To deploy and interact with JARVIS, follow these steps:
 This project serves as a starting point for integrating Discord and OpenAI. Feel free to expand and refine the functionality to align with your specific use cases.
 
 ## Dependencies
-- Python 3.x
+- Python 3
 - discord.py library
 - openai library
 
