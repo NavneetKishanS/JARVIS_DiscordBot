@@ -5,7 +5,7 @@ JARVIS is a Python 3-based chatbot developed by Navneet Kishan Srinivasan that i
 ## Technologies Used
 - **Discord.py**: The bot is built using the discord.py library, enabling interaction with the Discord API.
 - **OpenAI API**: OpenAI's API is utilized to generate contextual and coherent responses to user messages.
-- **Python 3.x**: The script is written in Python 3.x, ensuring compatibility and readability.
+- **Python 3**: The script is written in Python 3, ensuring compatibility and readability.
 - **Environment Variables**: The bot uses environment variables to securely store sensitive data like API keys.
 
 ## Features
