@@ -29,4 +29,6 @@ This project serves as a starting point for integrating Discord and OpenAI. Feel
 - Python 3.x
 - discord.py library
 - openai library
+
+
 ![JARVIS_profile](https://github.com/NavneetKishanS/JARVIS_DiscordBot/assets/115086283/14c024b5-9da8-433f-8658-dbd52321abe5)
