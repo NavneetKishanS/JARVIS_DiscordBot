@@ -14,7 +14,7 @@ JARVIS is a Python 3-based chatbot developed by Navneet Kishan Srinivasan that i
 - Customizable response generation parameters including temperature, max tokens, top p, frequency penalty, and presence penalty.
 
 ## Usage
-To deploy and interact with the DiscordOpenAIChatBot, follow these steps:
+To deploy and interact with JARVIS, follow these steps:
 
 1. **Create Bot**: Go to the Discord Developer Portal and create a bot. Get the bot's token.
 2. **Get API Key**: Get an API key from OpenAI and keep it secure.
